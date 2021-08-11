@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @renatacdp
+- 👀 I’m interested in learning front-end 
+- 🌱 I’m currently learning HTML, CSS (+ Bootstrap), and JS (@SheCodes)
+- 💞️ I’m looking to collaborate on any project, since I want to gain more experience :)
+- 📫 How to reach me: renata.dib@gmail.com.
